@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Unreal Engine Projects/UnihackThing/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Unreal Engine Projects/UnihackThing/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"E:/Unreal Engine Projects/UnihackThing/Content/CustomStuff/Core/BP_EditorCamera.uasset",
+				"E:/Unreal Engine Projects/UnihackThing/Content/ThirdPerson/Lvl_ThirdPerson.umap",
+				"E:/Unreal Engine Projects/UnihackThing/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"E:/Unreal Engine Projects/UnihackThing/Content/CustomStuff/Core/CommonFunctions.uasset",
+				"E:/Unreal Engine Projects/UnihackThing/Content/ThirdPerson/Blueprints/BP_TestPlyController.uasset"
+			]
+		}
+	]
+}
