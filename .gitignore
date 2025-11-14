@@ -1,0 +1,64 @@
+# Visual Studio 2015-2022
+.vs/
+.vscode/
+.idea/
+*.opensdf
+*.sdf
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.docstates
+
+# Compilation
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+
+# Logs
+/Saved/Logs/
+
+# Build
+/Build/
+
+# Other Saved Data
+/Saved/Autosaves/
+/Saved/Collections/
+/Saved/Config/
+/Saved/Cooked/
+/Saved/Crashes/
+/Saved/EditorLayout/
+/Saved/HardwareSurvey/
+/Saved/LocalProfiles/
+/Saved/Logs/
+/Saved/Profiling/
+/Saved/Screenshots/
+/Saved/StagedBuilds/
+/Saved/Temp/
+
+# Generated Files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.ncb
+*.bak
+*.VC.db
+*.VC.opendb
+*.aps
+*.user
+*.config
+*.filters
+*.manifest
+*.map
+*.pak
+
+# Source Control Overrides
+# Uncomment these if you are tracking your project settings in Config,
+# but want to ignore certain generated configuration files
+#/Config/DefaultEngine.ini
+#/Config/DefaultGame.ini
+#/Config/DefaultInput.ini
+#/Config/DefaultScalability.ini
